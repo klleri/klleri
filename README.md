@@ -1,9 +1,3 @@
-
-<center><IMG SRC="https://i.pinimg.com/originals/fd/c4/f8/fdc4f8df31ccaeab0b48f3d942bcf41d.gif"></center>
 <h3> Hi 👋 I am Lucas Silva.</h3>
-Developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in are Python, Django and PyTorch. I am actively looking for opportunities in Data Science.
-  
-- 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning.
-- 🤝 Open for collaborations in deep learning, analytics and data science.
-
+Highly motivated AI professional (Master's student, UFPR) specializing in Optimization, with a passion for developing innovative AI solutions. Proven ability to deliver results in Computer Vision, Machine Learning, Data Science, and Data Engineering. Key projects include an electrical asset identification system (Computer Vision), operational optimization models for the energy sector (Machine Learning), and supply chain improvements at Körber (Optimization). Proficient in Python, C++, and relevant AI/ML libraries.  Experience with databases, cloud platforms, and Agile methodologies.  Seeking opportunities to contribute to cutting-edge AI research and development.
 

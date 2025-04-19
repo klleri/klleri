@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Lucas Cardoso Silva!
+### Hi there 👋, I'm Lucas Silva!
 
 I'm a passionate AI enthusiast and Master's student at **UFPR** 🎓 (2023-present) , specializing in **Optimization** . My focus is on developing innovative software solutions and exploring the frontiers of AI research.
 
